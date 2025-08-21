@@ -1,0 +1,9 @@
+fastapi[all]
+langchain-google-genai
+langchain
+langchain_community
+google-generativeai
+python-multipart
+pydantic
+pymupdf
+faiss-cpu
