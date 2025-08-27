@@ -6,7 +6,7 @@
 
 **Repository:** [Ashprogrammer29/AI-Powered-PDF-Context-Retrieval-Chatbot-RAG](https://github.com/Ashprogrammer29/AI-Powered-PDF-Context-Retrieval-Chatbot-RAG)
 
-Unlock intelligent context retrieval and querying from your PDFs using state-of-the-art AI! This Retrieval-Augmented Generation (RAG) chatbot leverages FastAPI, LangChain, Google Gemini, and powerful vector search for document Q&A.
+Unlock intelligent context retrieval and querying from your PDFs using state-of-the-art AI! This Retrieval-Augmented Generation (RAG) chatbot leverages FastAPI, LangChain, Google Gemini, and powerful vector search for document Q&A
 
 ---
 
